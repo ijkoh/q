@@ -1,5 +1,5 @@
 <main>
-<h2>Добавление/создание нового инстанса/домена в организации.</h2>
+<h1>Добавление/создание нового инстанса/домена в организации.</h1>
 </main>
 
 Данные берутся из структуры организации, которая находится, путь: `vars_smartpetrol/monitoring/ "grafana_organizations"`, 
@@ -42,9 +42,10 @@ Example(endpoint):
 &nbsp;&nbsp;&nbsp;&nbsp;user: cadvisor</pre>
 
 ---
-Где(описание перменных, вывод значений и с помощью чего они генерируются):
-Берутся данные из структуры организации, которая находится, путь: vars_smartpetrol/monitoring/ "grafana_organizations", 
-c помощью роли: monitoring/define_vars/main.yml, и таска внутри роли: - name: Transform dict to array flatten_grafana_organizations,
+<main>
+<h2>Описание перменных, вывод значений и с помощью чего они генерируются</h2>
+</main>
+Таск - name: Transform dict to array flatten_grafana_organizations,
 получаем переменные:
 для инстанса получаем переменные и значения:
 
