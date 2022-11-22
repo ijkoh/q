@@ -41,18 +41,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;password: password
 &nbsp;&nbsp;&nbsp;&nbsp;user: cadvisor</pre>
 
-
+---
 <main>
 <h3>Описание переменных, вывод значений и с помощью чего они генерируются</h3>
 </main>
 <h6><em>С помощью таска: Transform dict to array flatten_grafana_organizations,
 получаем переменные и значения для:</h6></em>
 
-инстанса:
+инстанс:
  1. exporter 
  2. instance
  3. organization
-для endpoint получаем переменные и значения:
+endpoint:
  1. exporter 
  2. instance
  3. organization
