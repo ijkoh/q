@@ -47,18 +47,19 @@
 </main>
 <h6><em>С помощью таска: Transform dict to array flatten_grafana_organizations,
 получаем переменные и значения для:</h6></em>
- инстанса:
-> 1. exporter 
-> 2. instance
-> 3. organization
+
+инстанса:
+ 1. exporter 
+ 2. instance
+ 3. organization
 для endpoint получаем переменные и значения:
-> 1. exporter 
-> 2. instance
-> 3. organization
-> 4. domain 
-> 5. user
-> 6. label
-> 7. password
+ 1. exporter 
+ 2. instance
+ 3. organization
+ 4. domain 
+ 5. user
+ 6. label
+ 7. password
 
 ---
 Оставшиеся данные для переменных инстанса, генерируется с помощью тасков:
