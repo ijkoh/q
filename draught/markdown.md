@@ -66,10 +66,10 @@
 Lookup exporters password for prometheus scrape_configs</h6>
 
 <pre><em>инстанс:
-4. domain 
-5. user
-6. label
-7. password</em></pre>
+ 4. domain 
+ 5. user
+ 6. label
+ 7. password</em></pre>
 
 
 
