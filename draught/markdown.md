@@ -1,11 +1,11 @@
 <main>
 <h2>Добавление/создание нового инстанса/домена в организации.</h2>
-<p>1. Под grafana_organizations:/n
+<p>1. Под grafana_organizations:
 добавляем вашу новую организацию, под ней экспортер или endpoint.</p>
 
 <p>2. Указываем инстанс метрики. Если это endpoint, то нужно указать ещё domain и user.</p>
 
-<p>3. Password vault generation with command: `ansible-vault encrypt_string`</p>
+3. Password vault generation with command: `ansible-vault encrypt_string
 </main>
 
 
