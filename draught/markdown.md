@@ -3,9 +3,9 @@
 
 2. Указываем инстанс метрики. Если это endpoint, то нужно указать ещё domain и user.
 
-3. password vault generation with command: `ansible-vault encrypt_string`
+3. Password vault generation with command: `ansible-vault encrypt_string`
 
----
+
 Example(endpoint): 
 
 <pre>&nbsp;CargorunGeocoder:
@@ -23,17 +23,16 @@ Example(endpoint):
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6336363936653532663461623135653335386665623235343935</pre>
 
 
----
 Пример вывода структуры в консоли, после запуска роли /roles/monitioring :
 
-  msg:
-  - domain: cadvisor.ct.smprojects.ru
-    exporter: cadvisor
-    instance: cargorun-eam-prod-connecticut
-    label: cadvisor-connecticut
-    organization: CargorunEAM
-    password: password
-    user: cadvisor
+<pre>&nbsp;&nbsp;msg:
+&nbsp;&nbsp;- domain: cadvisor.ct.smprojects.ru
+&nbsp;&nbsp;&nbsp;&nbsp;exporter: cadvisor
+&nbsp;&nbsp;&nbsp;&nbsp;instance: cargorun-eam-prod-connecticut
+&nbsp;&nbsp;&nbsp;&nbsp;label: cadvisor-connecticut
+&nbsp;&nbsp;&nbsp;&nbsp;organization: CargorunEAM
+&nbsp;&nbsp;&nbsp;&nbsp;password: password
+&nbsp;&nbsp;&nbsp;&nbsp;user: cadvisor</pre>
 
 ---
 Где(описание перменных, вывод значений и с помощью чего они генерируются):
