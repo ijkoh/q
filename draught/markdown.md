@@ -64,12 +64,12 @@ c помощью роли: monitoring/define_vars/main.yml, и таска вну
 
 
 
+1
 
+<pre>&nbsp;CargorunGeocoder:
+<p>&nbsp;&nbsp;&nbsp;&nbsp;endpoint:</pre>
 
-<p>&nbsp;CargorunGeocoder:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;endpoint:</p>
-
-
+1
 <!-- 
       - instance: geocoder-prod
         domain: metrics.prod.app.geo.canada.smprojects.ru
