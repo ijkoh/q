@@ -64,8 +64,11 @@ c помощью роли: monitoring/define_vars/main.yml, и таска вну
 
 
 
- <p>CargorunGeocoder:</p>
+
+
+<main>
+ <h2>CargorunGeocoder:</h2>
     <p>endpoint:</p>
-      <p>- instance: geocoder-prod</p>
-        <p>domain: metrics.prod.app.geo.canada.smprojects.ru</p>
-        <p>user: pushgateway</p>
+      - instance: geocoder-prod
+        domain: metrics.prod.app.geo.canada.smprojects.ru
+        user: pushgateway
