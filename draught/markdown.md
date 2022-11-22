@@ -63,4 +63,4 @@ c помощью роли: monitoring/define_vars/main.yml, и таска вну
 > 7. password
 
 
-    !(/home/andrey/Downloads/Telegram Desktop/14.jpg)
+    (/home/andrey/Downloads/Telegram Desktop/14.jpg)
