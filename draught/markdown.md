@@ -63,8 +63,9 @@
 
 
 <h6><em>Оставшиеся данные для переменных инстанса, генерируется с помощью тасков:</em></h6>
-<p>&nbsp;&nbsp;- name: Generate passwords for basicAuth
-&nbsp;&nbsp;- name: Lookup exporters password for prometheus scrape_configs</p>
+&nbsp;&nbsp;- name: Generate passwords for basicAuth
+&nbsp;&nbsp;- name: Lookup exporters password for prometheus scrape_configs
+
 > 4. domain 
 > 5. user
 > 6. label
