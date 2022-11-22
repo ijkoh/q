@@ -6,7 +6,7 @@
 <p>2. Указываем инстанс метрики. Если это endpoint, то нужно указать ещё domain и user.</p>
 </main>
 
-3. Password vault generation with command: `ansible-vault encrypt_string
+3. Password vault generation with command: `ansible-vault encrypt_string`
 
 
 Example(endpoint): 
