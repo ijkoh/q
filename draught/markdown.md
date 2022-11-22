@@ -30,7 +30,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6336363936653532663461623135653335386665623235343935</pre>
 
 
-<h6><em>Пример вывода структуры в консоли, после запуска роли /roles/monitioring :</em></h6>
+<h6><em>Пример вывода структуры в консоли, после запуска роли /roles/monitioring:</em></h6>
 
 <pre>&nbsp;&nbsp;msg:
 &nbsp;&nbsp;- domain: cadvisor.ct.smprojects.ru
