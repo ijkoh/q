@@ -12,7 +12,7 @@
 
 3. Password vault generation with command: `ansible-vault encrypt_string`
 
-
+---
 Example(endpoint): 
 
 <pre>&nbsp;CargorunGeocoder:
