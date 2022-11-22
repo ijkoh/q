@@ -1,9 +1,9 @@
-- Под grafana_organizations:
+1. Под grafana_organizations:
 добавляем вашу новую организацию, под ней экспортер или endpoint.
 
-- Указываем инстанс метрики. Если это endpoint, то нужно указать ещё domain и user.
+2. Указываем инстанс метрики. Если это endpoint, то нужно указать ещё domain и user.
 
-- password vault generation with command: `ansible-vault encrypt_string`
+3. password vault generation with command: `ansible-vault encrypt_string`
 
 ---
 Example(endpoint): 
