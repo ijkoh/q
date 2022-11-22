@@ -1,18 +1,6 @@
-<html>
-<head>
-<style>
-h2 {
-    background-color: green;
-}
-</style>
-</head>
-
-<body>
 <main>
 <h2>Добавление/создание нового инстанса/домена в организации.</h2>
 </main>
-</body>
-
 
 <h6><em>&nbsp;&nbsp;&nbsp;&nbsp;Данные берутся из структуры организации, которая находится, путь: vars_smartpetrol/monitoring/ "grafana_organizations", 
 и выполняются c помощью роли: monitoring/define_vars/main.yml</em></h6>
@@ -23,6 +11,7 @@ h2 {
 2. Указываем инстанс метрики. Если это endpoint, то нужно указать ещё domain и user.
 
 3. Password vault generation with command: `ansible-vault encrypt_string`
+
 
 <h6><em>Example(endpoint):</em></h6> 
 
@@ -79,5 +68,3 @@ h2 {
  5. user
  6. label
  7. password</em></pre>
-
-</html>
