@@ -4,6 +4,11 @@
 h2 {
     background-color: green;
 }
+
+</style>
+</head>
+<body>
+
 <main>
 <h2>Добавление/создание нового инстанса/домена в организации.</h2>
 </main>
@@ -75,6 +80,4 @@ h2 {
  6. label
  7. password</em></pre>
 
-</style>
-</head>
-<body>
+
