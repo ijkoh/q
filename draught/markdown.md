@@ -61,18 +61,6 @@
  6. label
  7. password</em></pre>
 
-
-<!-- <h6>&nbsp;&nbsp;&nbsp;&nbsp;Оставшиеся данные для переменных инстанса, генерируется с помощью тасков: Generate passwords for basicAuth и
-Lookup exporters password for prometheus scrape_configs</h6>
-
-<pre><em>инстанс:
- 4. domain 
- 5. user
- 6. label
- 7. password</em></pre> -->
-
-
-
 <h6>&nbsp;&nbsp;&nbsp;&nbsp;Таск Transform dict to array flatten_grafana_organizations исключает генерацию домена в уже созданный заранее вручную домен в инстансе. Берёт те инстансы, которые указаны в структуре без инстанса и генерирует им, с помощью тасков: Generate passwords for basicAuth и Lookup exporters password for prometheus scrape_configs, такие переменные, как:</h6> 
 
 <pre><em>инстанс:
