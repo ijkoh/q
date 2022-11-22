@@ -45,8 +45,8 @@
 <main>
 <h2>Описание переменных, вывод значений и с помощью чего они генерируются</h2>
 </main>
-<h6><em>С помощью таска: Transform dict to array flatten_grafana_organizations,
-получаем переменные и значения для:</h6></em>
+<h6>С помощью таска: Transform dict to array flatten_grafana_organizations,
+получаем переменные и значения для:</h6>
 
 <pre><em>инстанс:
  1. exporter 
@@ -62,8 +62,8 @@
  7. password</em></pre>
 
 
-<h6><em>Оставшиеся данные для переменных инстанса, генерируется с помощью тасков: Generate passwords for basicAuth и
-Lookup exporters password for prometheus scrape_configs</em></h6>
+<h6>Оставшиеся данные для переменных инстанса, генерируется с помощью тасков: Generate passwords for basicAuth и
+Lookup exporters password for prometheus scrape_configs</h6>
 
 <pre><em>инстанс:
 4. domain 
