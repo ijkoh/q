@@ -1,7 +1,8 @@
 <main>
 <h2>Добавление/создание нового инстанса/домена в организации.</h2>
 </main>
-Данные берутся из структуры организации, которая находится, путь: vars_smartpetrol/monitoring/ "grafana_organizations", 
+
+Данные берутся из структуры организации, которая находится, путь: `vars_smartpetrol/monitoring/ "grafana_organizations"`, 
 выполняются c помощью роли: monitoring/define_vars/main.yml
 
 1. Под grafana_organizations:
