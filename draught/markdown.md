@@ -61,3 +61,6 @@ c помощью роли: monitoring/define_vars/main.yml, и таска вну
 > 5. user
 > 6. label
 > 7. password
+
+
+    ![Tux, the Linux mascot](/home/andrey/Downloads/Telegram Desktop/14.jpg)
