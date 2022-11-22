@@ -2,7 +2,7 @@
 <h2>Добавление/создание нового инстанса/домена в организации.</h2>
 </main>
 
-<h6><em>Данные берутся из структуры организации, которая находится, путь: vars_smartpetrol/monitoring/ "grafana_organizations", 
+<h6><em>&nbsp;&nbsp;&nbsp;&nbsp;Данные берутся из структуры организации, которая находится, путь: vars_smartpetrol/monitoring/ "grafana_organizations", 
 и выполняются c помощью роли: monitoring/define_vars/main.yml</em></h6>
 
 1. Под grafana_organizations:
@@ -13,7 +13,7 @@
 3. Password vault generation with command: `ansible-vault encrypt_string`
 
 
-<h6><em>Example(endpoint):</em></h6> 
+<h6><em>&nbsp;&nbsp;&nbsp;&nbsp;Example(endpoint):</em></h6> 
 
 <pre>&nbsp;CargorunGeocoder:
 &nbsp;&nbsp;&nbsp;&nbsp;endpoint:
@@ -30,7 +30,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6336363936653532663461623135653335386665623235343935</pre>
 
 
-<h6><em>Пример вывода структуры в консоли, после запуска роли /roles/monitioring:</em></h6>
+<h6><em>&nbsp;&nbsp;&nbsp;&nbsp;Пример вывода структуры в консоли, после запуска роли /roles/monitioring:</em></h6>
 
 <pre>&nbsp;&nbsp;msg:
 &nbsp;&nbsp;- domain: cadvisor.ct.smprojects.ru
