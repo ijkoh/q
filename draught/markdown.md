@@ -1,3 +1,9 @@
+<html>
+<head>
+<style>
+h2 {
+    background-color: green;
+}
 <main>
 <h2>Добавление/создание нового инстанса/домена в организации.</h2>
 </main>
@@ -68,3 +74,7 @@
  5. user
  6. label
  7. password</em></pre>
+
+</style>
+</head>
+<body>
