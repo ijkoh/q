@@ -11,6 +11,8 @@ h2 {
 <main>
 <h2>Добавление/создание нового инстанса/домена в организации.</h2>
 </main>
+</body>
+
 
 <h6><em>&nbsp;&nbsp;&nbsp;&nbsp;Данные берутся из структуры организации, которая находится, путь: vars_smartpetrol/monitoring/ "grafana_organizations", 
 и выполняются c помощью роли: monitoring/define_vars/main.yml</em></h6>
@@ -79,5 +81,4 @@ h2 {
  6. label
  7. password</em></pre>
 
-</body>
 </html>
