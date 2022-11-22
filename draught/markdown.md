@@ -74,3 +74,14 @@ c помощью роли: monitoring/define_vars/main.yml, и таска вну
       - instance: geocoder-prod
         domain: metrics.prod.app.geo.canada.smprojects.ru
         user: pushgateway</p> -->
+
+<div class="text">
+<pre>
+  abc
+  def
+  ghi
+</pre>
+  abc
+  def
+  ghi
+</div>
