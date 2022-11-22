@@ -43,7 +43,7 @@
 
 ---
 <main>
-<h3>Описание переменных, вывод значений и с помощью чего они генерируются</h3>
+<h2>Описание переменных, вывод значений и с помощью чего они генерируются</h2>
 </main>
 <h6><em>С помощью таска: Transform dict to array flatten_grafana_organizations,
 получаем переменные и значения для:</h6></em>
@@ -52,14 +52,14 @@
  1. exporter 
  2. instance
  3. organization</em></pre>
-endpoint:
+<pre><em>endpoint:
  1. exporter 
  2. instance
  3. organization
  4. domain 
  5. user
  6. label
- 7. password
+ 7. password</em></pre>
 
 ---
 Оставшиеся данные для переменных инстанса, генерируется с помощью тасков:
