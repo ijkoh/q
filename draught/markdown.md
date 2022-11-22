@@ -24,7 +24,6 @@ h2 {
 
 3. Password vault generation with command: `ansible-vault encrypt_string`
 
-
 <h6><em>Example(endpoint):</em></h6> 
 
 <pre>&nbsp;CargorunGeocoder:
