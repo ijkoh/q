@@ -1,10 +1,12 @@
+<main>
+<h2>Добавление/создание нового инстанса/домена</h2>
+<p>1. Под grafana_organizations:
+добавляем вашу новую организацию, под ней экспортер или endpoint.</p>
 
-1. Под grafana_organizations:
-добавляем вашу новую организацию, под ней экспортер или endpoint.
+<p>2. Указываем инстанс метрики. Если это endpoint, то нужно указать ещё domain и user.</p>
 
-2. Указываем инстанс метрики. Если это endpoint, то нужно указать ещё domain и user.
-
-3. Password vault generation with command: `ansible-vault encrypt_string`
+<p>3. Password vault generation with command: `ansible-vault encrypt_string`</p>
+</main>
 
 
 Example(endpoint): 
@@ -66,8 +68,3 @@ c помощью роли: monitoring/define_vars/main.yml, и таска вну
 
 
 
-
-<main>
-<h2>Let's learn about indentation</h2>
-<p>There is no indentation here</p>
-</main>
