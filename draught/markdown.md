@@ -48,10 +48,10 @@
 <h6><em>С помощью таска: Transform dict to array flatten_grafana_organizations,
 получаем переменные и значения для:</h6></em>
 
-<pre>инстанс:
+<pre><em>инстанс:
  1. exporter 
  2. instance
- 3. organization</pre>
+ 3. organization</em></pre>
 endpoint:
  1. exporter 
  2. instance
