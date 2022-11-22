@@ -62,13 +62,13 @@ c помощью роли: monitoring/define_vars/main.yml, и таска вну
 > 6. label
 > 7. password
 
-<ul>
+<ol>
 <li>CargorunGeocoder:<li>
-  <ul>
+  <ol>
   <li>endpoint:<li>
-    <ul>
+    <ol>
     <li>- instance: geocoder-prod<li>
-      <ul>
+      <ol>
       <li>domain: metrics.prod.app.geo.canada.smprojects.ru<li>
-        <ul>
+        <ol>
         <li>user: pushgateway<li>
