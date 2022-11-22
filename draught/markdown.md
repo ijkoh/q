@@ -63,9 +63,9 @@ c помощью роли: monitoring/define_vars/main.yml, и таска вну
 > 7. password
 
 <ol>
-<li>CargorunGeocoder:<li>
+<p>CargorunGeocoder:</p>
   <ol>
-  <li>endpoint:<li>
+  <p>endpoint:</p>
     <ol>
     <li>- instance: geocoder-prod<li>
       <ol>
