@@ -62,5 +62,13 @@ c помощью роли: monitoring/define_vars/main.yml, и таска вну
 > 6. label
 > 7. password
 
-
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+<ul>
+<li>CargorunGeocoder:<li>
+  <ul>
+  <li>endpoint:<li>
+    <ul>
+    <li>- instance: geocoder-prod<li>
+      <ul>
+      <li>domain: metrics.prod.app.geo.canada.smprojects.ru<li>
+        <ul>
+        <li>user: pushgateway<li>
