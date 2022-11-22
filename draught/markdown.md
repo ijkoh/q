@@ -45,8 +45,8 @@
 <main>
 <h3>Описание переменных, вывод значений и с помощью чего они генерируются</h3>
 </main>
-Таск - name: Transform dict to array flatten_grafana_organizations,
-получаем переменные:
+<h6><em>С помощью таска: Transform dict to array flatten_grafana_organizations,
+получаем переменные:</h6></em>
 для инстанса получаем переменные и значения:
 
 ---
